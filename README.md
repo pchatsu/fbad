@@ -19,7 +19,7 @@ source fbad/bin/activate
 easy_install pip
 
 # install modules
-pip install -r pakages.txt
+pip install -r packages.txt
 ```
 
 
