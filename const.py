@@ -1,1 +1,1 @@
-APP_DIR          = [APP_DIR]
+APP_DIR = '/Users/pchatsu/github/fbad'

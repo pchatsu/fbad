@@ -48,6 +48,7 @@ def main():
         Output: JSON (need for google-api-python-client)
     """
     if not os.path.exists(credential_dir):
+	print 'mkdir .credentials'
         os.makedirs(credential_dir)
         print 'You should copy client_secret JSON file to .credentials/client_secret.json'
         print 'access to https://console.developers.google.com/apis/credentials'
